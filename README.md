@@ -14,7 +14,5 @@
 
 #
 
-🛠️
-Control4 Certified | Hubitat | Controlart | CommandFusion
-💻​
-C • Python • HTML • IoT • Alexa • Device Integration • TCP/IP • HTTP/REST • APIs • IR/RF • REGEX • Automation
+🛠️ Control4 Certified | Hubitat | Controlart | CommandFusion  
+💻​ C • Python • HTML • IoT • Alexa • Device Integration • TCP/IP • HTTP/REST • APIs • IR/RF • REGEX • Automation
